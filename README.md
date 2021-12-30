@@ -8,7 +8,6 @@ Upon completion of the course, students will be able to:
 - Effectively utilize and compose command-line utilities.
 - Identify if scripting is appropriate for a particular software-related task.
 - Design, develop, and test moderately sized scripting programs.
- <br />
 
 ### Homeworks 
 - Homework 1 - Treasure Hunt game in Python
