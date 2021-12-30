@@ -12,14 +12,14 @@ Upon completion of the course, students will be able to:
 
 ### Homeworks 
 - Homework 1 - Treasure Hunt game in Python
-- Homework 2 Three Scripts in Python
+- Homework 2 - Three Scripts in Python
   - Detect the strength of a password
   - Manage files in a directory
   - Process an excel file
-- Homework 3 Three scripts in Ruby
+- Homework 3 - Three scripts in Ruby
   - Clean strings
   - Insert files in a directory
   - Treasure Hunt game
-- Homework 4 Card Game Loot in Python and Ruby separately
-- Homework 5 Web script of Treasure Hunt game using Sinatra
-- Homework 6 Five shell scripts
+- Homework 4 - Card Game Loot in Python and Ruby separately
+- Homework 5 - Web script of Treasure Hunt game using Sinatra
+- Homework 6 - Five shell scripts
