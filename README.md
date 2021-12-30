@@ -11,7 +11,7 @@ Upon completion of the course, students will be able to:
 
 
 ### Homeworks 
-- Homework 1 Treasure Hunt game in Python
+- Homework 1 - Treasure Hunt game in Python
 - Homework 2 Three Scripts in Python
   - Detect the strength of a password
   - Manage files in a directory
