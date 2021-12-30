@@ -8,7 +8,7 @@ Upon completion of the course, students will be able to:
 - Effectively utilize and compose command-line utilities.
 - Identify if scripting is appropriate for a particular software-related task.
 - Design, develop, and test moderately sized scripting programs.
-
+ <br />
 
 ### Homeworks 
 - Homework 1 - Treasure Hunt game in Python
@@ -23,3 +23,8 @@ Upon completion of the course, students will be able to:
 - Homework 4 - Card Game Loot in Python and Ruby separately
 - Homework 5 - Web script of Treasure Hunt game using Sinatra
 - Homework 6 - Five shell scripts
+  - Copy certain files in a directory
+  - Compute sum of each column
+  - Weighted Average for an Exam
+  - Assign letter grades based on score
+  - Spell check
