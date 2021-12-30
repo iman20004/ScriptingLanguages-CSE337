@@ -1,0 +1,20 @@
+<html>
+  <head>
+    <style>
+      h1   {text-align:center; padding-top:280px; font-size:70px;}
+      h4   {text-align:center; font-size:28px; padding-bottom: 20px}
+      input {width: 300px; height: 90px; background-color: red; display: block; margin: auto;
+      font-size: 40px; border-radius: 20px}
+    </style>
+  </head>
+  <body>
+    <h1><b>Welcome to Treasure Hunt, it's at the server!</b></h1>
+    <h4><%= @time%></h4>
+    <div>
+      <form action="/play_game" method="post">
+        <input id='start-button' type="submit" value="Start Game"/>
+      </form>
+    </div>
+
+  </body>
+</html>
